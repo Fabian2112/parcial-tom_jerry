@@ -1,0 +1,9 @@
+import dominio.*
+
+describe "XX" {
+
+  test "dummy test" {
+    assert.equals(100, 100)
+  }
+
+}
